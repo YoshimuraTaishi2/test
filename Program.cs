@@ -30,7 +30,7 @@ class Program
             Console.WriteLine($"{n} は素数ではありません。");
     }
 
-    static bool IsPrime(long n)
+    public static bool IsPrime(long n)
     {
         if (n % 2 == 0)
             return n == 2;
