@@ -1,0 +1,14 @@
+C:\Users\socce\source\repos\Project1\bin\Debug\net10.0\PrimeChecker.exe
+C:\Users\socce\source\repos\Project1\bin\Debug\net10.0\PrimeChecker.deps.json
+C:\Users\socce\source\repos\Project1\bin\Debug\net10.0\PrimeChecker.runtimeconfig.json
+C:\Users\socce\source\repos\Project1\bin\Debug\net10.0\PrimeChecker.dll
+C:\Users\socce\source\repos\Project1\bin\Debug\net10.0\PrimeChecker.pdb
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.AssemblyInfoInputs.cache
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.AssemblyInfo.cs
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.dll
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\refint\PrimeChecker.dll
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.pdb
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\PrimeChecker.genruntimeconfig.cache
+C:\Users\socce\source\repos\Project1\obj\Debug\net10.0\ref\PrimeChecker.dll
